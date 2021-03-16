@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<configuration experimentType="rnaseq_mrna_differential" r_data="1">
+    <analytics>
+        <assay_groups>
+            <assay_group id="g2" label="chronic myelomonocytic leukemia type 1; responder to decitabine">
+                <assay>SRR1566096</assay>
+                <assay>SRR1566095</assay>
+                <assay>SRR1566090</assay>
+                <assay>SRR1566098</assay>
+                <assay>SRR1566088</assay>
+                <assay>SRR1566100</assay>
+            </assay_group>
+            <assay_group id="g1" label="chronic myelomonocytic leukemia type 1; non-responder to decitabine">
+                <assay>SRR1566094</assay>
+                <assay>SRR1566089</assay>
+                <assay>SRR1566097</assay>
+            </assay_group>
+        </assay_groups>
+        <contrasts>
+            <contrast id="g1_g2" cttv_primary="0">
+                <name>'responder to decitabine' vs 'non-responder to decitabine' in 'chronic myelomonocytic leukemia type 1'</name>
+                <reference_assay_group>g1</reference_assay_group>
+                <test_assay_group>g2</test_assay_group>
+                <batch_effects>
+                    <batch_effect name="sex">
+                        <batch value="female">
+                            <assay>SRR1566098</assay>
+                            <assay>SRR1566097</assay>
+                            <assay>SRR1566089</assay>
+                        </batch>
+                        <batch value="male">
+                            <assay>SRR1566095</assay>
+                            <assay>SRR1566100</assay>
+                            <assay>SRR1566088</assay>
+                            <assay>SRR1566090</assay>
+                            <assay>SRR1566096</assay>
+                            <assay>SRR1566094</assay>
+                        </batch>
+                    </batch_effect>
+                </batch_effects>
+            </contrast>
+        </contrasts>
+    </analytics>
+</configuration>

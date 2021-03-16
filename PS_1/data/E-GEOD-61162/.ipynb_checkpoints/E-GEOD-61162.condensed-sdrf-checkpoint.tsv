@@ -1,0 +1,154 @@
+E-GEOD-61162		SRR1566088	characteristic	age	71 year
+E-GEOD-61162		SRR1566088	characteristic	cell type	mononuclear cell	http://purl.obolibrary.org/obo/CL_0000842
+E-GEOD-61162		SRR1566088	characteristic	disease	chronic myelomonocytic leukemia type 1
+E-GEOD-61162		SRR1566088	characteristic	genotype	mutant
+E-GEOD-61162		SRR1566088	characteristic	karyotype	46,XY
+E-GEOD-61162		SRR1566088	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-61162		SRR1566088	characteristic	organism part	bone marrow	http://purl.obolibrary.org/obo/UBERON_0002371
+E-GEOD-61162		SRR1566088	characteristic	phenotype	responder to decitabine
+E-GEOD-61162		SRR1566088	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-61162		SRR1566088	factor	disease	chronic myelomonocytic leukemia type 1
+E-GEOD-61162		SRR1566088	factor	phenotype	responder to decitabine
+E-GEOD-61162		SRR1566089	characteristic	age	71 year
+E-GEOD-61162		SRR1566089	characteristic	cell type	mononuclear cell	http://purl.obolibrary.org/obo/CL_0000842
+E-GEOD-61162		SRR1566089	characteristic	disease	chronic myelomonocytic leukemia type 1
+E-GEOD-61162		SRR1566089	characteristic	genotype	mutant
+E-GEOD-61162		SRR1566089	characteristic	karyotype	47xx +8; 46 x, tr(x;2)(p23;q34); 46xx
+E-GEOD-61162		SRR1566089	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-61162		SRR1566089	characteristic	organism part	bone marrow	http://purl.obolibrary.org/obo/UBERON_0002371
+E-GEOD-61162		SRR1566089	characteristic	phenotype	non-responder to decitabine
+E-GEOD-61162		SRR1566089	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-61162		SRR1566089	factor	disease	chronic myelomonocytic leukemia type 1
+E-GEOD-61162		SRR1566089	factor	phenotype	non-responder to decitabine
+E-GEOD-61162		SRR1566090	characteristic	age	67 year
+E-GEOD-61162		SRR1566090	characteristic	cell type	mononuclear cell	http://purl.obolibrary.org/obo/CL_0000842
+E-GEOD-61162		SRR1566090	characteristic	disease	chronic myelomonocytic leukemia type 1
+E-GEOD-61162		SRR1566090	characteristic	genotype	mutant
+E-GEOD-61162		SRR1566090	characteristic	karyotype	46,XY
+E-GEOD-61162		SRR1566090	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-61162		SRR1566090	characteristic	organism part	bone marrow	http://purl.obolibrary.org/obo/UBERON_0002371
+E-GEOD-61162		SRR1566090	characteristic	phenotype	responder to decitabine
+E-GEOD-61162		SRR1566090	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-61162		SRR1566090	factor	disease	chronic myelomonocytic leukemia type 1
+E-GEOD-61162		SRR1566090	factor	phenotype	responder to decitabine
+E-GEOD-61162		SRR1566091	characteristic	age	73 year
+E-GEOD-61162		SRR1566091	characteristic	cell type	mononuclear cell	http://purl.obolibrary.org/obo/CL_0000842
+E-GEOD-61162		SRR1566091	characteristic	disease	chronic myelomonocytic leukemia type 2
+E-GEOD-61162		SRR1566091	characteristic	genotype	mutant
+E-GEOD-61162		SRR1566091	characteristic	karyotype	46,XX
+E-GEOD-61162		SRR1566091	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-61162		SRR1566091	characteristic	organism part	bone marrow	http://purl.obolibrary.org/obo/UBERON_0002371
+E-GEOD-61162		SRR1566091	characteristic	phenotype	non-responder to decitabine
+E-GEOD-61162		SRR1566091	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-61162		SRR1566091	factor	disease	chronic myelomonocytic leukemia type 2
+E-GEOD-61162		SRR1566091	factor	phenotype	non-responder to decitabine
+E-GEOD-61162		SRR1566092	characteristic	age	73 year
+E-GEOD-61162		SRR1566092	characteristic	cell type	mononuclear cell	http://purl.obolibrary.org/obo/CL_0000842
+E-GEOD-61162		SRR1566092	characteristic	disease	chronic myelomonocytic leukemia type 2
+E-GEOD-61162		SRR1566092	characteristic	genotype	mutant
+E-GEOD-61162		SRR1566092	characteristic	karyotype	46XX
+E-GEOD-61162		SRR1566092	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-61162		SRR1566092	characteristic	organism part	bone marrow	http://purl.obolibrary.org/obo/UBERON_0002371
+E-GEOD-61162		SRR1566092	characteristic	phenotype	non-responder to decitabine
+E-GEOD-61162		SRR1566092	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-61162		SRR1566092	factor	disease	chronic myelomonocytic leukemia type 2
+E-GEOD-61162		SRR1566092	factor	phenotype	non-responder to decitabine
+E-GEOD-61162		SRR1566093	characteristic	age	64 year
+E-GEOD-61162		SRR1566093	characteristic	cell type	mononuclear cell	http://purl.obolibrary.org/obo/CL_0000842
+E-GEOD-61162		SRR1566093	characteristic	disease	chronic myelomonocytic leukemia type 2
+E-GEOD-61162		SRR1566093	characteristic	genotype	mutant
+E-GEOD-61162		SRR1566093	characteristic	karyotype	46XY
+E-GEOD-61162		SRR1566093	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-61162		SRR1566093	characteristic	organism part	bone marrow	http://purl.obolibrary.org/obo/UBERON_0002371
+E-GEOD-61162		SRR1566093	characteristic	phenotype	non-responder to decitabine
+E-GEOD-61162		SRR1566093	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-61162		SRR1566093	factor	disease	chronic myelomonocytic leukemia type 2
+E-GEOD-61162		SRR1566093	factor	phenotype	non-responder to decitabine
+E-GEOD-61162		SRR1566094	characteristic	age	70 year
+E-GEOD-61162		SRR1566094	characteristic	cell type	mononuclear cell	http://purl.obolibrary.org/obo/CL_0000842
+E-GEOD-61162		SRR1566094	characteristic	disease	chronic myelomonocytic leukemia type 1
+E-GEOD-61162		SRR1566094	characteristic	genotype	mutant
+E-GEOD-61162		SRR1566094	characteristic	karyotype	46,XY
+E-GEOD-61162		SRR1566094	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-61162		SRR1566094	characteristic	organism part	bone marrow	http://purl.obolibrary.org/obo/UBERON_0002371
+E-GEOD-61162		SRR1566094	characteristic	phenotype	non-responder to decitabine
+E-GEOD-61162		SRR1566094	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-61162		SRR1566094	factor	disease	chronic myelomonocytic leukemia type 1
+E-GEOD-61162		SRR1566094	factor	phenotype	non-responder to decitabine
+E-GEOD-61162		SRR1566095	characteristic	age	73 year
+E-GEOD-61162		SRR1566095	characteristic	cell type	mononuclear cell	http://purl.obolibrary.org/obo/CL_0000842
+E-GEOD-61162		SRR1566095	characteristic	disease	chronic myelomonocytic leukemia type 1
+E-GEOD-61162		SRR1566095	characteristic	genotype	mutant
+E-GEOD-61162		SRR1566095	characteristic	karyotype	46XY
+E-GEOD-61162		SRR1566095	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-61162		SRR1566095	characteristic	organism part	bone marrow	http://purl.obolibrary.org/obo/UBERON_0002371
+E-GEOD-61162		SRR1566095	characteristic	phenotype	responder to decitabine
+E-GEOD-61162		SRR1566095	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-61162		SRR1566095	factor	disease	chronic myelomonocytic leukemia type 1
+E-GEOD-61162		SRR1566095	factor	phenotype	responder to decitabine
+E-GEOD-61162		SRR1566096	characteristic	age	67 year
+E-GEOD-61162		SRR1566096	characteristic	cell type	mononuclear cell	http://purl.obolibrary.org/obo/CL_0000842
+E-GEOD-61162		SRR1566096	characteristic	disease	chronic myelomonocytic leukemia type 1
+E-GEOD-61162		SRR1566096	characteristic	genotype	mutant
+E-GEOD-61162		SRR1566096	characteristic	karyotype	46xy 2/10 46xy t(3;14),t(11;20)8/10
+E-GEOD-61162		SRR1566096	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-61162		SRR1566096	characteristic	organism part	bone marrow	http://purl.obolibrary.org/obo/UBERON_0002371
+E-GEOD-61162		SRR1566096	characteristic	phenotype	responder to decitabine
+E-GEOD-61162		SRR1566096	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-61162		SRR1566096	factor	disease	chronic myelomonocytic leukemia type 1
+E-GEOD-61162		SRR1566096	factor	phenotype	responder to decitabine
+E-GEOD-61162		SRR1566097	characteristic	age	65 year
+E-GEOD-61162		SRR1566097	characteristic	cell type	mononuclear cell	http://purl.obolibrary.org/obo/CL_0000842
+E-GEOD-61162		SRR1566097	characteristic	disease	chronic myelomonocytic leukemia type 1
+E-GEOD-61162		SRR1566097	characteristic	genotype	mutant
+E-GEOD-61162		SRR1566097	characteristic	karyotype	46,XX[21]
+E-GEOD-61162		SRR1566097	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-61162		SRR1566097	characteristic	organism part	bone marrow	http://purl.obolibrary.org/obo/UBERON_0002371
+E-GEOD-61162		SRR1566097	characteristic	phenotype	non-responder to decitabine
+E-GEOD-61162		SRR1566097	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-61162		SRR1566097	factor	disease	chronic myelomonocytic leukemia type 1
+E-GEOD-61162		SRR1566097	factor	phenotype	non-responder to decitabine
+E-GEOD-61162		SRR1566098	characteristic	age	76 year
+E-GEOD-61162		SRR1566098	characteristic	cell type	mononuclear cell	http://purl.obolibrary.org/obo/CL_0000842
+E-GEOD-61162		SRR1566098	characteristic	disease	chronic myelomonocytic leukemia type 1
+E-GEOD-61162		SRR1566098	characteristic	genotype	mutant
+E-GEOD-61162		SRR1566098	characteristic	karyotype	46,XX
+E-GEOD-61162		SRR1566098	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-61162		SRR1566098	characteristic	organism part	bone marrow	http://purl.obolibrary.org/obo/UBERON_0002371
+E-GEOD-61162		SRR1566098	characteristic	phenotype	responder to decitabine
+E-GEOD-61162		SRR1566098	characteristic	sex	female	http://purl.obolibrary.org/obo/PATO_0000383
+E-GEOD-61162		SRR1566098	factor	disease	chronic myelomonocytic leukemia type 1
+E-GEOD-61162		SRR1566098	factor	phenotype	responder to decitabine
+E-GEOD-61162		SRR1566099	characteristic	age	78 year
+E-GEOD-61162		SRR1566099	characteristic	cell type	mononuclear cell	http://purl.obolibrary.org/obo/CL_0000842
+E-GEOD-61162		SRR1566099	characteristic	disease	chronic myelomonocytic leukemia type 1
+E-GEOD-61162		SRR1566099	characteristic	genotype	mutant
+E-GEOD-61162		SRR1566099	characteristic	karyotype	non methaphasis
+E-GEOD-61162		SRR1566099	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-61162		SRR1566099	characteristic	organism part	bone marrow	http://purl.obolibrary.org/obo/UBERON_0002371
+E-GEOD-61162		SRR1566099	characteristic	phenotype	responder to decitabine
+E-GEOD-61162		SRR1566099	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-61162		SRR1566099	factor	disease	chronic myelomonocytic leukemia type 1
+E-GEOD-61162		SRR1566099	factor	phenotype	responder to decitabine
+E-GEOD-61162		SRR1566100	characteristic	age	53 year
+E-GEOD-61162		SRR1566100	characteristic	cell type	mononuclear cell	http://purl.obolibrary.org/obo/CL_0000842
+E-GEOD-61162		SRR1566100	characteristic	disease	chronic myelomonocytic leukemia type 1
+E-GEOD-61162		SRR1566100	characteristic	genotype	wild type
+E-GEOD-61162		SRR1566100	characteristic	karyotype	5q-,+8
+E-GEOD-61162		SRR1566100	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-61162		SRR1566100	characteristic	organism part	bone marrow	http://purl.obolibrary.org/obo/UBERON_0002371
+E-GEOD-61162		SRR1566100	characteristic	phenotype	responder to decitabine
+E-GEOD-61162		SRR1566100	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-61162		SRR1566100	factor	disease	chronic myelomonocytic leukemia type 1
+E-GEOD-61162		SRR1566100	factor	phenotype	responder to decitabine
+E-GEOD-61162		SRR1566101	characteristic	age	78 year
+E-GEOD-61162		SRR1566101	characteristic	cell type	mononuclear cell	http://purl.obolibrary.org/obo/CL_0000842
+E-GEOD-61162		SRR1566101	characteristic	disease	chronic myelomonocytic leukemia type 2
+E-GEOD-61162		SRR1566101	characteristic	genotype	mutant
+E-GEOD-61162		SRR1566101	characteristic	karyotype	46 XY
+E-GEOD-61162		SRR1566101	characteristic	organism	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+E-GEOD-61162		SRR1566101	characteristic	organism part	bone marrow	http://purl.obolibrary.org/obo/UBERON_0002371
+E-GEOD-61162		SRR1566101	characteristic	phenotype	responder to decitabine
+E-GEOD-61162		SRR1566101	characteristic	sex	male	http://purl.obolibrary.org/obo/PATO_0000384
+E-GEOD-61162		SRR1566101	factor	disease	chronic myelomonocytic leukemia type 2
+E-GEOD-61162		SRR1566101	factor	phenotype	responder to decitabine

@@ -1,0 +1,35 @@
+Comment[ArrayExpressAccession]	E-GEOD-61162				
+MAGE-TAB Version	1.1				
+Public Release Date	2015-03-31				
+Investigation Title	Specific molecular signatures underlie response to decitabine in CMML [RNA-seq]				
+Comment[Submitted Name]	Specific molecular signatures underlie response to decitabine in CMML [RNA-seq]				
+Experiment Description	Myelodysplastic syndromes and chronic myelomonocytic leukemia (CMML) are characterized by mutations in epigenetic modifiers and aberrant DNA methylation. DNA methyltransferase inhibitors (DMTis) are used to treat these disorders, but response is highly variable with few means to predict which patients will benefit. To develop a molecular means of predicting response at diagnosis, we examined baseline differences in mutations, DNA methylation, and gene expression in 40 CMML patients responsive and resistant to decitabine (DAC). While somatic mutations did not differentiate responders and non-responders, we were able to identify for the first time 158 differentially methylated regions (DMRs) at baseline between responders and non-responders using next-generation sequencing. These DMRs were primarily localized to non-promoter regions and overlapped with distal regulatory enhancers. Using the methylation profiles, we developed an epigenetic classifier that accurately predicted DAC response at the time of diagnosis. We also found 53 differentially expressed genes between responders and non-responders. Genes up-regulated in responders were enriched in the cell cycle, potentially contributing to effective DAC incorporation. Two chemokines overexpressed in non-responders -- CXCL4 and CXCL7 -- were able to block the effect of DAC on normal CD34+ and primary CMML cells in vitro, suggesting their up-regulation contributes to primary DAC resistance. mRNA profiling in bone marrow mononuclear cells (BM MNC) from 14 CMML patients (8 decitabine responders vs. 6 non-responders).				
+Term Source Name	ArrayExpress	EFO			
+Term Source File	http://www.ebi.ac.uk/arrayexpress/	http://www.ebi.ac.uk/efo/efo.owl			
+Person Last Name	Qin	Meldi	Qin	Santini	Figueroa
+Person First Name	Tingting	Kristen	Tingting	Valeria	Maria
+Person Mid Initials					E
+Person Email	tingtingq11@gmail.com				
+Person Affiliation	University of Michigan				
+Person Phone	8438646006				
+Person Address	Pathology, University of Michigan, 109 Zina Pitcher Place, Ann Arbor, MI, USA				
+Person Roles	submitter				
+Protocol Name	P-GSE61162-2	P-GSE61162-1			
+Protocol Description	Illumina Casava1.8.2 software was used for basecalling. Sequenced reads were trimmed for adaptor sequence, and the quality of reads obtained was evaluated using FastQC (http://www.bioinformatics.babraham.ac.uk/projects/fastqc/). Reads were mapped to the hg18 whole genome or to the ERCC spike-in reference sequence using TopHat v2.0.8 with parameters -g 20 -p 10. Gene counts or ERCC spike-in counts were collected by HTseq v0.5.4p5 with parameters --mode=union --stranded=no. Gene counts were normalized by the scaling factors of ERCC spike-in controls, and then Reads Per Kilobase of gene per Megabase of library size (RPKM) were calculated. Genome_build: NCBI36 (hg18) Supplementary_files_format_and_content: RPKM_samples.txt: Abundance measurements: tab-delimited text file includes RPKM values for all Samples.	Total RNA was isolated using the AllPrep DNA/RNA kit from Qiagen (Valencia, CA) according to manufacturer’s instructions. RNA-seq libraries were prepared using the Illumina TruSeq RNA Sample Prep Kit v2 as per manufacturer's instructions (San Diego, CA).			
+Protocol Type	normalization data transformation protocol	nucleic acid library construction protocol			
+Experimental Factor Name	disease	phenotype			
+Experimental Factor Type	disease	phenotype			
+Publication Title	Specific molecular signatures predict decitabine response in chronic myelomonocytic leukemia.				
+Publication Author List	Meldi K, Qin T, Buchi F, Droin N, Sotzen J, Micol JB, Selimoglu-Buet D, Masala E, Allione B, Gioia D, Poloni A, Lunghi M, Solary E, Abdel-Wahab O, Santini V, Figueroa ME				
+PubMed ID	25822018				
+Publication DOI	10.1172/JCI78752				
+Comment[SecondaryAccession]	GSE61162				
+Comment[GEOReleaseDate]	2015-03-31				
+Comment[ArrayExpressSubmissionDate]	2014-09-05				
+Comment[GEOLastUpdateDate]	2015-03-31				
+Comment[AEExperimentType]	RNA-seq of coding RNA				
+Comment[AdditionalFile:Data1]	GSE61162_RPKM_samples.txt				
+Comment[SecondaryAccession]	SRP046233				
+Comment[SequenceDataURI]	http://www.ebi.ac.uk/ena/data/view/SRR1566088-SRR1566101				
+SDRF File	E-GEOD-61162.sdrf.txt				
+Comment[AEExperimentDisplayName]	Transcription profiling by high throughput sequencing of response to decitabine in chronic myelomonocytic leukemia (CMML)				
